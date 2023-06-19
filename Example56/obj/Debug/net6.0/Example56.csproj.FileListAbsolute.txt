@@ -1,0 +1,15 @@
+C:\Users\5\Desktop\Обучение\Знакомство с языками программирования С#\Семинары\Папка с задачами\Домашнее задание\DZ8C#\Example56\bin\Debug\net6.0\Example56.exe
+C:\Users\5\Desktop\Обучение\Знакомство с языками программирования С#\Семинары\Папка с задачами\Домашнее задание\DZ8C#\Example56\bin\Debug\net6.0\Example56.deps.json
+C:\Users\5\Desktop\Обучение\Знакомство с языками программирования С#\Семинары\Папка с задачами\Домашнее задание\DZ8C#\Example56\bin\Debug\net6.0\Example56.runtimeconfig.json
+C:\Users\5\Desktop\Обучение\Знакомство с языками программирования С#\Семинары\Папка с задачами\Домашнее задание\DZ8C#\Example56\bin\Debug\net6.0\Example56.dll
+C:\Users\5\Desktop\Обучение\Знакомство с языками программирования С#\Семинары\Папка с задачами\Домашнее задание\DZ8C#\Example56\bin\Debug\net6.0\Example56.pdb
+C:\Users\5\Desktop\Обучение\Знакомство с языками программирования С#\Семинары\Папка с задачами\Домашнее задание\DZ8C#\Example56\obj\Debug\net6.0\Example56.csproj.AssemblyReference.cache
+C:\Users\5\Desktop\Обучение\Знакомство с языками программирования С#\Семинары\Папка с задачами\Домашнее задание\DZ8C#\Example56\obj\Debug\net6.0\Example56.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\5\Desktop\Обучение\Знакомство с языками программирования С#\Семинары\Папка с задачами\Домашнее задание\DZ8C#\Example56\obj\Debug\net6.0\Example56.AssemblyInfoInputs.cache
+C:\Users\5\Desktop\Обучение\Знакомство с языками программирования С#\Семинары\Папка с задачами\Домашнее задание\DZ8C#\Example56\obj\Debug\net6.0\Example56.AssemblyInfo.cs
+C:\Users\5\Desktop\Обучение\Знакомство с языками программирования С#\Семинары\Папка с задачами\Домашнее задание\DZ8C#\Example56\obj\Debug\net6.0\Example56.csproj.CoreCompileInputs.cache
+C:\Users\5\Desktop\Обучение\Знакомство с языками программирования С#\Семинары\Папка с задачами\Домашнее задание\DZ8C#\Example56\obj\Debug\net6.0\Example56.dll
+C:\Users\5\Desktop\Обучение\Знакомство с языками программирования С#\Семинары\Папка с задачами\Домашнее задание\DZ8C#\Example56\obj\Debug\net6.0\refint\Example56.dll
+C:\Users\5\Desktop\Обучение\Знакомство с языками программирования С#\Семинары\Папка с задачами\Домашнее задание\DZ8C#\Example56\obj\Debug\net6.0\Example56.pdb
+C:\Users\5\Desktop\Обучение\Знакомство с языками программирования С#\Семинары\Папка с задачами\Домашнее задание\DZ8C#\Example56\obj\Debug\net6.0\Example56.genruntimeconfig.cache
+C:\Users\5\Desktop\Обучение\Знакомство с языками программирования С#\Семинары\Папка с задачами\Домашнее задание\DZ8C#\Example56\obj\Debug\net6.0\ref\Example56.dll
